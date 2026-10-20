@@ -8,7 +8,7 @@
 
 ---
 
-# Cursor-Unit-Test-Coverage-CI-Quality-Gate
+# Cursor - Unit Test Coverage CI Quality Gate
 
 
 # Alset.Api — Unit Test Coverage & CI Quality Gate
